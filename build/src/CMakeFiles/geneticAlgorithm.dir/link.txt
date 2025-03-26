@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc ../lib/libgeneticAlgorithm.a CMakeFiles/geneticAlgorithm.dir/Genetic_Algorithm.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib ../lib/libgeneticAlgorithm.a
